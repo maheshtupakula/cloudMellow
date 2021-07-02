@@ -1,5 +1,7 @@
 <html>
 <head>
+
+
 	<title>Report a Bug</title>
 	<style type="text/css">
 		/* apply a natural box layout model to all elements */
